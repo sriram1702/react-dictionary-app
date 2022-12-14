@@ -16,7 +16,7 @@ const Footer = () => {
           <i className="fab fa-instagram-square fa-2x"></i>
         </a>
         <a href="https://www.linkedin.com/in/sriram-h/" target="__blank">
-          <i className="fab fa-linkedin fa-2x"></i>
+          <i className="fa fa-linkedin" style={{fontSize:"25px"}}></i>
         </a>
         <a href="https://ramsri1702@gmail.com/" target="__blank">
         <i class="fa fa-google" aria-hidden="true"></i>
